@@ -6,6 +6,12 @@ DESCRIPCIÓN DEL PROYECTO
 ------------------------
 Aplicación web desarrollada en PHP para la visualización y filtrado dinámico del estado de envíos de mensajes de WhatsApp almacenados en una base de datos SQL Server.
 
+
+VISTA PREVIA DEL SISTEMA 
+----------------------
+![Vista previa del Reporte](imagen/dashboard.png)
+
+
 TECNOLOGÍAS UTILIZADAS
 ----------------------
 - PHP 8.2 (XAMPP Environment)
